@@ -19,8 +19,8 @@ Windows software for data acquisition since 1999. Our programs take the data tha
 
 - [datalogger-scripting-examples](https://github.com/aggsoftware/datalogger-scripting-examples) - ready-to-load scripts for the Script execute and Python plugins of our data loggers
 - [awesome-serial-port](https://github.com/aggsoftware/awesome-serial-port) - a curated list of serial port and MODBUS tools, libraries, drivers and references
-
-Coming next: ready configurations for devices our loggers support, and a corpus of raw serial captures for developers.
+- [serial-data-samples](https://github.com/aggsoftware/serial-data-samples) - raw captures of what real devices send: PBX call records of 44 brands, NMEA, AIS, scales, meters, analysers, printers
+- [device-configs](https://github.com/aggsoftware/device-configs) - ready-to-load logger configurations for specific devices, with the raw sample and the frame explained
 
 ## Support
 
